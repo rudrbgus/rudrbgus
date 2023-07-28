@@ -1,5 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradiunt&desc=안녕하세요)
 - 🌱 I’m currently learning ...
+
 <!--
 **rudrbgus/rudrbgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
