@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradiunt&desc=안녕하세요)
 - 🌱 I’m currently learning ...
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrbgus&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrbgus&show_icons=true&theme=radical)
 
 <!--
 **rudrbgus/rudrbgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
