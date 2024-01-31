@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,100:1e1d23&fontColor=f3f3f0&fontSize=140&&animation=twinkling&height=120&desc=안녕하세요)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,100:1e1d23&fontColor=f3f3f0&textBg=true &fontSize=140&&animation=twinkling&height=120&desc=안녕하세요)
 - 🌱 I’m currently learning ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrbgus&show_icons=true&theme=radical)
