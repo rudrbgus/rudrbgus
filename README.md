@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,100:1f20ff&fontColor=000712&fontSize=140&&animation=twinkling&height=120&desc=안녕하세요%20저의%20GITHUB에%20오신것을%20환영합니다.)
 <br/>
 <br/>
-<div align="center">🔥 열심히 웹에 대해서 공부하고 있습니다!!!!</div>
+<div align="center">🔥 열심히 웹에 대해서 공부하고 있습니다 🔥</div>
 <br/>
 <br/>
 <br/>
